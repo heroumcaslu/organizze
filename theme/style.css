@@ -90,6 +90,12 @@ nav.flex {
 
 /*Home*/
 
+.home .container {
+
+    padding-bottom: 0;
+
+}
+
 .home .container header {
 
     padding-top: 10em;
@@ -167,6 +173,12 @@ nav.flex {
 
     padding-top: 5em;
     flex-basis: 50%;
+
+}
+
+.home hr {
+
+    border: 1px solid #e2e2e2;
 
 }
 

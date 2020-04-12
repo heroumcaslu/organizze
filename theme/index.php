@@ -21,4 +21,5 @@
             </section>
         </div>
     </div>
+    <hr>
 </article>
