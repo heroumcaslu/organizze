@@ -56,6 +56,7 @@ $configSiteName = "Organizze";
 
             require "{$configThemePath}/offer.php";
             require "{$configThemePath}/callToAction.php";
+            require "{$configThemePath}/functionalities.php";
 
         }
 

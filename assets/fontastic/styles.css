@@ -116,4 +116,16 @@
 .icon-apple:before {
   content: "\76";
 }
+.icon-chart:before {
+  content: "\77";
+}
+.icon-target:before {
+  content: "\78";
+}
+.icon-bank:before {
+  content: "\79";
+}
+.icon-credit-card:before {
+  content: "\7a";
+}
 

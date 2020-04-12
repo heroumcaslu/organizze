@@ -288,6 +288,31 @@ nav.flex {
 
 }
 
+/* Funcionalidades */
+
+.func-items {
+
+    justify-content: space-between;
+    padding: 30px;
+
+}
+
+.func-item {
+
+    
+    border-radius: 10px;
+    padding: 15px 30px;
+
+}
+
+.func-item h4 {
+
+    color: var(--green);
+    font-size: 1.5em;
+    padding-bottom: 10px;
+
+}
+
 @media (max-width: 62em) {
 
     .main_header .btn.cadastro {
