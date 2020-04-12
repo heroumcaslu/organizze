@@ -55,6 +55,7 @@ $configSiteName = "Organizze";
         if($configUrl[0] == "index"){
 
             require "{$configThemePath}/offer.php";
+            require "{$configThemePath}/callToAction.php";
 
         }
 

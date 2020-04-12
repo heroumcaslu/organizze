@@ -12,6 +12,7 @@
                         </form>
                     </div>
                 </div>
+                <span class="availability">Disponível também para <i class="icon-android"></i><i class="icon-apple"></i></span>
             </header>
             <section>
                 <div>
