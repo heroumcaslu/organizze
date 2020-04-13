@@ -376,6 +376,68 @@ nav.flex {
 
 }
 
+/* Plans */
+
+.plans-area .plans {
+
+    padding: 50px;
+    justify-content: space-around;
+
+}
+
+.plans-area .plan {
+
+    flex-basis: calc(33.33% - 5em);
+    padding: 30px;
+    align-content: space-between;
+    border: 1px solid #e2e2e2;
+    border-radius: 1em;
+    
+
+}
+
+.plans-area .plan h2 {
+
+    color: var(--green);
+    flex-basis: 100%;
+    font-size: 1.875em;
+    font-weight: 800;
+    padding-bottom: 45px;
+
+}
+
+.plans-area .plan .price {
+
+    flex-basis: 100%;
+    font-weight: bold;
+    font-size: 2.5em;
+
+}
+
+.plans-area .plan span {
+
+    padding-bottom: 60px;
+
+}
+
+.yearly-plan .monthly {
+
+    text-decoration: line-through;
+
+}
+
+.plans-area .plan p {
+
+    padding-bottom: 50px;
+
+}
+
+.plans-area .plan button {
+
+    margin: 0 auto;
+
+}
+
 @media (max-width: 62em) {
 
     .main_header .btn.cadastro {

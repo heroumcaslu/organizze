@@ -58,6 +58,7 @@ $configSiteName = "Organizze";
             require "{$configThemePath}/callToAction.php";
             require "{$configThemePath}/functionalities.php";
             require "{$configThemePath}/socialProof.php";
+            require "{$configThemePath}/plans.php";
 
         }
 
