@@ -325,6 +325,57 @@ nav.flex {
 
 }
 
+/*Social proof*/
+
+.social-proof .comments {
+
+    padding: 50px;
+
+}
+
+.social-proof .comment {
+
+    border: 1px solid #e2e2e2;
+    padding: 1em;
+    border-radius: 0.875em;
+
+}
+
+.social-proof .comment img {
+
+    width: 4em;
+    padding-bottom: 10px;
+
+}
+
+.social-proof .comment p {
+
+    padding-bottom: 0.875em;
+
+}
+
+.social-proof .comment span {
+
+    display: block;
+    color: var(--green);
+    font-weight: 700;
+    padding-bottom: 5px;
+
+}
+
+.social-proof .comments .instagram-user {
+
+    font-weight: 700;
+    font-size: 0.875em;
+
+}
+
+.social-proof .comments .instagram-user:hover {
+
+    text-decoration: none;
+
+}
+
 @media (max-width: 62em) {
 
     .main_header .btn.cadastro {
