@@ -440,6 +440,12 @@ nav.flex {
 
 /* Blog */
 
+.blog-area {
+
+    background: #e2e2e2;
+
+}
+
 .blog-header h2 {
 
     font-size: 1.875em;
@@ -458,6 +464,13 @@ nav.flex {
 .article {
 
     position: relative;
+    overflow: hidden;
+
+}
+
+.article .bg-img {
+
+    filter: blur(2px);
 
 }
 
@@ -468,7 +481,7 @@ nav.flex {
     position: absolute;
     left: 0;
     bottom: 0;
-    padding: 20px 30px;
+    padding: 10px 30px;
     align-items: center;
 
 }

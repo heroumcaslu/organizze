@@ -7,7 +7,7 @@
         <div class="articles flex">
             <div class="article flex radius flex-3">
                 <a href="">
-                    <img class="radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
+                    <img class="bg-img radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
                     <header>
                         <h2>economizar</h2>
                         <p>Como economizar dinheiro neste momento de dificuldade?</p>
@@ -20,7 +20,7 @@
             </div>
             <div class="article flex radius flex-3">
                 <a href="">
-                    <img class="radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
+                    <img class="bg-img radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
                     <header>
                         <h2>economizar</h2>
                         <p>Como economizar dinheiro neste momento de dificuldade?</p>
@@ -33,7 +33,7 @@
             </div>
             <div class="article flex radius flex-3">
                 <a href="">
-                    <img class="radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
+                    <img class="bg-img radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
                     <header>
                         <h2>economizar</h2>
                         <p>Como economizar dinheiro neste momento de dificuldade?</p>
@@ -46,7 +46,7 @@
             </div>
             <div class="article flex radius flex-3">
                 <a href="">
-                    <img class="radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
+                    <img class="bg-img radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
                     <header>
                         <h2>economizar</h2>
                         <p>Como economizar dinheiro neste momento de dificuldade?</p>
@@ -59,7 +59,7 @@
             </div>
             <div class="article flex radius flex-3">
                 <a href="">
-                    <img class="radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
+                    <img class="bg-img radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
                     <header>
                         <h2>economizar</h2>
                         <p>Como economizar dinheiro neste momento de dificuldade?</p>
@@ -72,7 +72,7 @@
             </div>
             <div class="article flex radius flex-3">
                 <a href="">
-                    <img class="radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
+                    <img class="bg-img radius" src="<?= $configBase ?>/assets/img/save-money.jpg" alt="">
                     <header>
                         <h2>economizar</h2>
                         <p>Como economizar dinheiro neste momento de dificuldade?</p>
