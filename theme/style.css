@@ -438,6 +438,62 @@ nav.flex {
 
 }
 
+/* Blog */
+
+.blog-header h2 {
+
+    font-size: 1.875em;
+    padding-top: 50px;
+    text-align: center;
+    color: var(--lightBlack);
+
+}
+
+.articles {
+
+    padding: 50px;
+
+}
+
+.article {
+
+    position: relative;
+
+}
+
+.article header {
+
+    color: #fff;
+    text-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 20px 30px;
+    align-items: center;
+
+}
+
+.article header h2 {
+
+    text-transform: uppercase;
+
+}
+
+.article .publisher-info {
+
+    align-items: center;
+
+}
+
+.article .publisher {
+
+    width: 4em;
+    display: inline-block;
+    padding: 10px;
+
+}
+
+
 @media (max-width: 62em) {
 
     .main_header .btn.cadastro {

@@ -59,6 +59,7 @@ $configSiteName = "Organizze";
             require "{$configThemePath}/functionalities.php";
             require "{$configThemePath}/socialProof.php";
             require "{$configThemePath}/plans.php";
+            require "{$configThemePath}/blog.php";
 
         }
 
