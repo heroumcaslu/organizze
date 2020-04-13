@@ -1,4 +1,4 @@
-<article class="home">
+<article id="homeArea" class="home">
     <div class="container">
         <div class="flex">
             <header>

@@ -7,11 +7,11 @@
                 </a>
                 <nav class="menu_items">
                     <ul>
-                        <li><a href="">Inicio</a></li>
-                        <li><a href="">Sobre</a></li>
-                        <li><a href="">Recursos</a></li>
-                        <li><a href="">Planos</a></li>
-                        <li><a href="">Blog</a></li>
+                        <li><a href="" id="home">Inicio</a></li>
+                        <li><a href="" id="about">Sobre</a></li>
+                        <li><a href="" id="resources">Recursos</a></li>
+                        <li><a href="" id="plans">Planos</a></li>
+                        <li><a href="" id="blog">Blog</a></li>
                     </ul>
                 </nav>
             </div>

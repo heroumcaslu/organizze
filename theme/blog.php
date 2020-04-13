@@ -1,4 +1,4 @@
-<section class="blog-area">
+<section id="blog-area" class="blog-area">
     <div class="container">
         <header class="blog-header">
             <h2>Blog</h2>

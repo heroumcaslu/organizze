@@ -30,6 +30,9 @@ $configSiteName = "Organizze";
     <link rel="stylesheet" href="<?= $configThemeLink ?>/style.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800">
 
+    <script src="<?= $configBase ?>/assets/jquery.js"></script>
+    <script src="<?= $configThemeLink ?>/script.js"></script>
+
 </head>
 
 <body>

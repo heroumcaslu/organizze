@@ -1,4 +1,4 @@
-<section class="functionalities">
+<section id="functionalities" class="functionalities">
     <div class="container">
         <header class="offer-header">
             <h2>Funcionalidades</h2>

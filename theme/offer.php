@@ -1,4 +1,4 @@
-<section class="offer">
+<section id="offer" class="offer">
     <div class="container">
         <header class="offer-header">
             <h2>Saiba porque é incrível</h2>

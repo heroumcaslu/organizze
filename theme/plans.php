@@ -1,4 +1,4 @@
-<section class="plans-area">
+<section id="plans-area" class="plans-area">
     <div class="container">
         <header class="offer-header">
             <h2>Planos e preços</h2>
